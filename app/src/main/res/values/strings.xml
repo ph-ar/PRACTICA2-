@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P2aphm</string>
+    <string name="carre">Manejo de Radio de selección</string>
+    <string name="Sele">Selecciona tu Carrera</string>
+    <string name="isc">ISC</string>
+    <string name="itics">ITIC´S</string>
+    <string name="ambi">Ambiental</string>
+    <string name="gastro">Lic GASTRONOMIA</string>
+    <string name="casa">Casa</string>
+    <string name="escuela">Escuela</string>
+    <string name="trabajo">Trabajo</string>
+    <string name="mensa">Mensaje</string>
+</resources>
